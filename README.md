@@ -1,4 +1,7 @@
+# Lumi (@LumiMakesStuff)
 idiot that for some reason can code
+
+(Formerly DucksAreVeryCool)
 
 # Projects
 - None
