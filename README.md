@@ -1,11 +1,11 @@
-# Lumi (@LumiMakesStuff)
+## Lumi (@LumiMakesStuff)
 idiot that for some reason can code
 
 (Formerly DucksAreVeryCool)
 
-# Projects
+## Projects
 - None
 
 
-# Contributed to:
+## Contributed to:
 - Geode SDK iOS Launcher
