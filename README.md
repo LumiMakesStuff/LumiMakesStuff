@@ -1,8 +1,6 @@
 ## Lumi (@LumiMakesStuff)
 idiot that for some reason can code
 
-(Formerly DucksAreVeryCool)
-
 ## Projects
 - No Events on Roblox
 -- Removes the events from the Roblox home page and sidebar on Firefox
