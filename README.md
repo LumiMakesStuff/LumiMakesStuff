@@ -10,7 +10,7 @@ break things and then (try to) fix them
 
 ## current things:
  - learning pixel art
- - working on: owo Mod Loader, TBG
+ - working on: FM (Reveal soon!), TBG
  - learning Java & C#/C++
 
 ## projects:
