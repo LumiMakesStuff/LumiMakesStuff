@@ -8,16 +8,16 @@ mess with games and engines
 make little projects
 break things and then (try to) fix them
 
-## current things:
+## ⭐️ current things:
  - learning pixel art
  - working on: FM (Reveal soon!), TBG
- - learning Java & C#/C++
+ - learning Java & Rust ☕️🦀 
 
-## projects:
+## 🔧 projects:
  - owo Mod Loader -- Minecraft: Java Edition mod loader with useful stuff
  - TBG -- Secret (WIP)
 
-## fun facts:
+## ✨ fun facts:
  - fave game: Terraria
  - fave coding language: idk
  - fave colour: pink/purple
