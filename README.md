@@ -3,21 +3,20 @@ hii i'm lumi :3
 
 i like making random stuff and seeing if it works
 
-## what i do:
-mess with games and engines
-make little projects
-break things and then (try to) fix them
-
-## ⭐️ current things:
+## current things:
  - learning pixel art
- - working on: FM (Reveal soon!), TBG
- - learning Java & Rust ☕️🦀 
+ - working on: Rock SDk, 2 Secret Projects
+ - learning Kotlin & C++
 
-## 🔧 projects:
- - owo Mod Loader -- Minecraft: Java Edition mod loader with useful stuff
+## projects:
+ - Rock SDK
  - TBG -- Secret (WIP)
 
-## ✨ fun facts:
+## fun facts:
  - fave game: Terraria
  - fave coding language: idk
  - fave colour: pink/purple
+
+## stuff i like:
+[LiveContainer](https://livecontainer.github.io/)
+i need to think of stuff to put here
