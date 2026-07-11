@@ -5,12 +5,12 @@ i like making random stuff and seeing if it works
 
 ## current things:
 - learning pixel art
-- working on: Rock SDk, 2 Secret Projects
+- working on: Rock SDK (occasionally), Secret Projects
 - learning Kotlin & C++
 
 ## projects:
 - Rock SDK
-- TBG -- Secret (WIP)
+- Secret ones i cant share yet :3
 
 ## fun facts:
 - fave game: Terraria
