@@ -19,4 +19,5 @@ i like making random stuff and seeing if it works
 
 ## stuff i like:
 - [LiveContainer](https://livecontainer.github.io/)
+- [mcsrc.dev](https://mcsrc.dev) ([Source](https://github.com/FabricMC/mcsrc))
 - i need to think of stuff to put here
