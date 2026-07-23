@@ -9,7 +9,7 @@ i like making random stuff and seeing if it works
 - learning Kotlin & C++
 
 ## projects:
-- Rock SDK
+- Modrinth Compare: Compare stats of Modrinth projects!
 - Secret ones i cant share yet :3
 
 ## fun facts:
