@@ -12,6 +12,9 @@ i like making random stuff and seeing if it works
 - Modrinth Compare: Compare stats of Modrinth projects!
 - Secret ones i cant share yet :3
 
+> [!NOTE]
+> I am very lazy and often forget about stuff :3
+
 ## fun facts:
 - fave game: Terraria
 - fave coding language: idk
