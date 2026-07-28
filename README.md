@@ -18,7 +18,7 @@ i like making random stuff and seeing if it works
 ## fun facts:
 - fave game: Terraria
 - fave coding language: idk
-- fave colour: pink/purple
+- fave colour: pink/purple i guess
 
 ## stuff i like:
 - [LiveContainer](https://livecontainer.github.io/)
