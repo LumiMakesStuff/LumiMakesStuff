@@ -1,26 +1,32 @@
 # about me:
+
 hii i'm lumi :3
 
 i like making random stuff and seeing if it works
 
 ## current things:
+
 - learning pixel art
-- working on: Rock SDK (occasionally), Secret Projects
+- working on: Snooze Studio, Secret Projects
 - learning Kotlin & C++
 
 ## projects:
-- Modrinth Compare: Compare stats of Modrinth projects!
+
+- Snooze Studio & Snooze Launcher
+- Modrinth Compare: Compare stats of Modrinth projects! (hiatus or whatever u call it)
 - Secret ones i cant share yet :3
 
 > [!NOTE]
 > I am very lazy and often forget about stuff :3
 
 ## fun facts:
+
 - fave game: Terraria
 - fave coding language: idk
 - fave colour: pink/purple i guess
 
 ## stuff i like:
+
 - [LiveContainer](https://livecontainer.github.io/)
 - [mcsrc.dev](https://mcsrc.dev) ([Source](https://github.com/FabricMC/mcsrc))
 - i need to think of stuff to put here
